@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\bin\Debug\LoL_Masteries_Lookup.exe.config
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\bin\Debug\LoL_Masteries_Lookup.exe
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\bin\Debug\LoL_Masteries_Lookup.pdb
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\obj\Debug\LoL_Masteries_Lookup.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\obj\Debug\LoL_Masteries_Lookup.Form1.resources
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\obj\Debug\LoL_Masteries_Lookup.Properties.Resources.resources
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\obj\Debug\LoL_Masteries_Lookup.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\obj\Debug\LoL_Masteries_Lookup.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\obj\Debug\LoL_Masteries_Lookup.exe
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\obj\Debug\LoL_Masteries_Lookup.pdb
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\bin\Debug\DotNetBrowser.Chromium32.dll
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\bin\Debug\DotNetBrowser.Chromium64.dll
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\bin\Debug\DotNetBrowser.dll
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\bin\Debug\DotNetBrowser.xml
+C:\Users\Michael\source\repos\LoL_Masteries_Lookup\LoL_Masteries_Lookup\obj\Debug\LoL_Masteries_Lookup.csproj.CopyComplete
